@@ -40,10 +40,10 @@ mvar37,Total Spend in quarter 2
 mvar38,Total Spend in quarter 3
 mvar39,Total Spend in quarter 4
 mvar40,Number of times the customer was extended supp offers in the last year
-mvar41,Number of times the customer accepted elite card offers in the last year
+mvar41,Number of times the customer was extended elite card offers in the last year
 mvar42,Number of times the customer was extended credit card offers in the last year
-mvar43,Number of times the customeraccepted supp offers in the last year
-mvar44,Number of times the customer was extended elite card offers in the last year
+mvar43,Number of times the customer accepted supp offers in the last year
+mvar44,Number of times the customer accepted elite card offers in the last year
 mvar45,Number of times the customer accepted credit card offers in the last year
 mvar46,Indicator for extension of Supp card offer
 mvar47,Indicator for extension of Elite card offer
